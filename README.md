@@ -31,6 +31,7 @@ https://start.spring.io/
 3. DB 설계
     + 테이블 정의서 작성
     + MysqlWorkbench를 이용하여 DB 설계 및 ERD 작성
+    <img src="https://user-images.githubusercontent.com/30275700/137919758-9e49326c-c208-45da-a74f-8861b9473b9c.png">
 4. 개발
     + 테스트 주도 개발(TDD)
 
@@ -39,3 +40,5 @@ https://start.spring.io/
 + 21/10/16
     + 쇼핑몰 템플릿을 스프링 프로젝트에 설정 완료
     + 테이블 정의서 및 ERD 작성중
++ 21/10/19
+    + ERD 초안 작성 완료
